@@ -1,6 +1,6 @@
 # Python
 
-This is my fist Python's open codes.
+This is my first Python's open codes.
 
 ## Summary
 - Algoritmo para calculo da idade - learning_python (1).py
